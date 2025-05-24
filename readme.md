@@ -103,6 +103,8 @@ A curated collection of my Pop OS tweaks, extensions, settings, wallpapers, font
 ### Screenshots
 
 - Directory: `screenshots/`
+- Pop OS
+![image](screenshots/pop_os/Screenshot from 2025-05-25 02-41-49.png)
 
 ---
 
