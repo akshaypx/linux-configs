@@ -104,7 +104,8 @@ A curated collection of my Pop OS tweaks, extensions, settings, wallpapers, font
 
 - Directory: `screenshots/`
 - Pop OS
-![image]([screenshots/pop_os/Screenshot from 2025-05-25 02-41-49.png](https://github.com/akshaypx/linux-configs/blob/main/screenshots/pop_os/Screenshot%20from%202025-05-25%2002-41-49.png))
+
+![alt text](https://github.com/akshaypx/linux-configs/blob/main/screenshots/pop_os/Screenshot%20from%202025-05-25%2002-41-49.png)
 
 ---
 
