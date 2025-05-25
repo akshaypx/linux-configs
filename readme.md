@@ -56,10 +56,11 @@ A curated collection of my Pop OS tweaks, extensions, settings, wallpapers, font
 - [Desktop Icons NG (DING)](https://extensions.gnome.org/extension/2087/desktop-icons-ng-ding/)
 - [Just Perfection](https://extensions.gnome.org/extension/3843/just-perfection/)
 - [Logo Menu](https://extensions.gnome.org/extension/4451/logo-menu/)
-- [Open Bar](https://extensions.gnome.org/extension/4451/logo-menu/)
+- [Open Bar](https://extensions.gnome.org/extension/4451/logo-menu/) - `/open_bar` for config, Disable with dashtopanel, 
 - Pop Shell (Pop OS)
 - System76 Power (Pop OS)
 - [Ubuntu AppIndicators](https://extensions.gnome.org/extension/4451/logo-menu/)
+- [Dash To Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - `/dash_to_panel` for config
 
 ### Gnome Tweaks
 
