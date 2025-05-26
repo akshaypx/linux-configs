@@ -60,7 +60,7 @@ A curated collection of my Pop OS tweaks, extensions, settings, wallpapers, font
 - Pop Shell (Pop OS)
 - System76 Power (Pop OS)
 - [Ubuntu AppIndicators](https://extensions.gnome.org/extension/4451/logo-menu/)
-- [Dash To Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - `/dash_to_panel` for config
+- [Dash To Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - `/dash_to_panel` for configs
 
 ### Gnome Tweaks
 
